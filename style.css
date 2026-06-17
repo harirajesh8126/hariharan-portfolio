@@ -1,0 +1,53 @@
+h1{
+    color:white;
+    font-size: 50px;
+}
+nav{
+    text-align: center;
+    position: sticky;
+    top: 0;
+    background: #006d77;
+}
+nav a{
+    margin: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 70%;
+    object-fit: fill;
+}
+header{
+    color: white;
+    background-color: #009688; 
+    text-align: center;
+    padding: 10px;
+}
+
+.skills{
+    display: inline-block;
+    background: #0083b0;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 20px;
+    text-align: center;
+}
+#abount{
+    text-align: center;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+
+}
+
+footer{
+    background-color: #009688;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+ 
